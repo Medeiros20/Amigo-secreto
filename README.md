@@ -4,7 +4,7 @@ Este repositório contém um sorteio de amigo secreto, onde o usuario Insere os 
 
 ## VEJA!
 
-[Challenge](amigo-secreto-nine-bay.vercel.app)
+[Challenge]([amigo-secreto-nine-bay.vercel.app](https://amigo-secreto-nine-bay.vercel.app/))
 
 ## 🛠️ Como Usar
 
